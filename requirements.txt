@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-core
+autogen-ext
+streamlit
+arxiv
+openai
+requests
+python-dotenv
+pypdf
+google-generativeai
